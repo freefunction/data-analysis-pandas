@@ -1,0 +1,12 @@
+graphviz
+imbalanced-learn
+ipympl
+jupyterlab
+matplotlib
+numpy
+pandas
+requests
+scikit-learn
+seaborn
+sqlalchemy
+statsmodels
